@@ -13,10 +13,10 @@
 ## Used technology 
 > Python
 
->Pandas
+>Pandas Library
 
->Airflow DAG
+>Airflow DAG Library
 
->Tweepy
+>Tweepy Library
 
 >Spyder
